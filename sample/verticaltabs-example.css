@@ -1,0 +1,35 @@
+.tabtarget {
+    margin: 15px 0;
+}
+
+.list {
+    list-style: square;
+    width: 800px;
+    padding-left: 16px;
+}
+
+.list li {
+    padding: 2px;
+}
+
+h3 {
+    font-size: 14px;
+    margin-top: 20px;
+
+}
+
+strong {
+    font-weight: bold;
+}
+
+.icon-list {
+    background-image: url(icons/icon-list.gif) !important;
+}
+
+.icon-folder {
+    background-image: url(icons/icon-folder.gif) !important;
+}
+
+.icon-by-category {
+    background-image: url(icons/icon-by-category.gif) !important;
+}
